@@ -1,3 +1,3 @@
-#Example GitHub
+# Example GitHub
 
-example github repository
+Example github repository for MiCM workshop.
