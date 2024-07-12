@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 x = [i for i in range(25)]
 x = np.array(x)
 
-y = x**2
+y = x**3
 
 plt.plot(x,y)
 plt.savefig("plot_example.png")
